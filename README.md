@@ -29,7 +29,6 @@
 
 ## 🛠️ Skills & Technologies
 
-*Add the technologies you're currently learning or already know.*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" alt="Technology icons" />
@@ -44,7 +43,7 @@
 - Software development
 - Version control with Git and GitHub
 
-*Customize this list to match your current learning journey.*
+
 
 ---
 
@@ -56,7 +55,6 @@ Here are some projects I'm working on and learning from:
 - 💡 **Learning Projects** — Small projects to practice programming.
 - 🔨 **Future Projects** — Exploring new ideas and building practical solutions.
 
-<!-- Add your project links here as you create them. -->
 
 ---
 
@@ -78,7 +76,6 @@ Here are some projects I'm working on and learning from:
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-*The contribution animation requires a separate GitHub Actions workflow to generate the image. Set it up before relying on this section.*
 
 ---
 
