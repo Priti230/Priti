@@ -1,7 +1,7 @@
 
 <!-- Welcome Section -->
 <h1 align="center">Hi 👋, I'm Priti</h1>
-
+ 
 <h3 align="center">
   Aspiring IT Student | Tech Enthusiast | Future Developer 💻
 </h3>
